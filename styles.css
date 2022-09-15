@@ -1,0 +1,33 @@
+h1 {
+    background-color: rgb(247, 109, 109);
+    padding: 10px 0px 10px 0px;
+}
+
+.title-container {
+    background-color: rgb(43, 223, 223);
+    text-align: center;
+    padding: 5px 0px 5px 0px    ;
+}
+
+
+.recipes > ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+}
+
+.recipes ul li {
+    text-align: center;
+}
+
+
+.recipes ul li img {
+    height: 250px;
+    width: 250px;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
